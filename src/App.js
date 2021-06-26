@@ -4,6 +4,7 @@ import Characters from './components/Characters';
 import './main.sass'
 import './components/Header.css'
 
+
 const App = () => {
     return ( 
         <Fragment>
